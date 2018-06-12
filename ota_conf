@@ -17,7 +17,7 @@ device_name=ro.liquid.device
 # A version source can be a 'property key' from build.prop or a 'uname -r' command line
 # If a version is a number, leave the version_format empty. Otherwise, provide the date format
 #
-# Example with a property key 'ro.liquid.version' : Parse the date 20180605 from 'liquid_remix-9.1.1-20180605-UNOFFICIAL-cheeseburger'
+# Example with a property key 'ro.liquid.version' : Parse the date 20180611 from 'liquid_remix-9.1.1-20180611-OFFICIAL-santoni'
 #
 # Version source: ro.liquid.version
 # Version delimiter: -
