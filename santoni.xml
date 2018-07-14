@@ -2,15 +2,15 @@
 <SlimOTA xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="ota.xsd">
     <Official>
         <santoni>
-            <Filename>9.1.1-20180611-OFFICIAL-santoni.zip</Filename>
+            <Filename>9.1.3-20180714-OFFICIAL-santoni.zip</Filename>
             <RomUrl
                 id="rom"
                 title="LiquidRemix"
-                description="Download latest build for santoni">https://androidfilehost.com/?fid=818222786056036223</RomUrl>
+                description="Download latest build for santoni">https://androidfilehost.com/?fid=5862345805528048335</RomUrl>
             <ChangelogUrl
                 id="changelog"
                 title="Changelog"
-                description="Click here to view latest changes">https://pastebin.com/uBQrf2M4</ChangelogUrl>
+                description="Click here to view latest changes">https://pastebin.com/2n02Rp4n</ChangelogUrl>
             <OpenGappsUrl
             	id="open_gapps"
             	title="OpenGApps"
